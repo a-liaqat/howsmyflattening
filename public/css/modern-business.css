@@ -21,3 +21,8 @@ body {
   margin-bottom: 30px;
 }
 
+img.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
